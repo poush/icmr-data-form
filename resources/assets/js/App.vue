@@ -1,16 +1,15 @@
 <template>
   <div id="app">
-    <example></example>
-    <el-button icon="edit">Hello Element</el-button>
+    <login></login>
   </div>
 </template>
 <script>
-  import Example from './components/Example.vue';
+  import Login from './components/Login.vue';
 
   export default {
     name: 'app',
     components: {
-      Example
+      Login
     }
   };
 </script>
