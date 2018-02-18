@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Example</title>
+  <title>ICMR</title>
 </head>
 <body>
   <div id="app"></div>

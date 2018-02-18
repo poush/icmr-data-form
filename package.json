@@ -25,6 +25,7 @@
     "vue-loader": "^13.3.0"
   },
   "dependencies": {
+    "normalize.css": "^8.0.0",
     "vue-router": "^3.0.1"
   }
 }
